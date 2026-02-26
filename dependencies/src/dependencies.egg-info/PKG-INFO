@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: dependencies
+Version: 0.1.0
+Summary: testing dependencies learning
+Requires-Dist: requests
+Requires-Dist: boto3
+Requires-Dist: urllib3
+Requires-Dist: certifi
+Requires-Dist: packaging
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: beautifulsoup4

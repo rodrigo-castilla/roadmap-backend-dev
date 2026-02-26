@@ -1,0 +1,8 @@
+requests
+boto3
+urllib3
+certifi
+packaging
+numpy
+pandas
+beautifulsoup4

@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dependencies"
+version = "0.1.0"
+description = "testing dependencies learning"
+dependencies = [
+  "requests",
+  "boto3",
+  "urllib3",
+  "certifi",
+  "packaging",
+  "numpy",
+  "pandas",
+  "beautifulsoup4"
+]
