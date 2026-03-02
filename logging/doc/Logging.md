@@ -1,0 +1,3 @@
+# Logging
+
+The `logs` are objects that recap actions, errors, messages...

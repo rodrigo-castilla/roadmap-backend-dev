@@ -1,9 +1,0 @@
-pyproject.toml
-src/dependencies/__init__.py
-src/dependencies/main.py
-src/dependencies/repos.py
-src/dependencies.egg-info/PKG-INFO
-src/dependencies.egg-info/SOURCES.txt
-src/dependencies.egg-info/dependency_links.txt
-src/dependencies.egg-info/requires.txt
-src/dependencies.egg-info/top_level.txt
